@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "More than 4 enviroments for Pega Deployment Manager"
+title:  "More Than 4 Enviroments for Pega Deployment Manager"
 date:   2022-02-01 19:09:36 +0100
 categories: administration devops PDM
 ---

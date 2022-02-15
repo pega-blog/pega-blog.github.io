@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Delegation using favorites is deprecated"
+title:  "Delegation Using Favorites is Deprecated"
 date:   2022-02-01 19:09:36 +0100
 categories: rules delegate
 ---
