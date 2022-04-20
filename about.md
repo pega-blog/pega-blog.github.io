@@ -6,6 +6,7 @@ permalink: /about/
 
 Just Another Pega Blog
 
-https://github.com/pega-blog
+[Collaborate on GitHub](https://github.com/pega-blog)
 
-https://www.linkedin.com/in/dmitry-kolesnikov
+
+[Add me on LinkedIn](https://www.linkedin.com/in/dmitry-kolesnikov)
